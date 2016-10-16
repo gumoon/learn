@@ -1,6 +1,6 @@
 {
   "name": "Sketch-learn",
   "tagline": "Wiki 示例空白仓库",
-  "body": "# simple\r\n\r\nWiki 示例空白仓库，直接 `fork` 该仓库然后填充内容即可。\r\n\r\n",
+  "body": "# 待翻译的英文文档\r\n\r\n- [11-tips-for-prototyping-with-sketch](11-tips-for-prototyping-with-sketch.md)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
