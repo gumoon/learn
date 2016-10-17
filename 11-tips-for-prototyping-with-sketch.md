@@ -83,12 +83,16 @@ This works just like it does in Photoshop, but a lot of people still don’t kno
 We all make mistakes—let’s say you designed a button, but made it way too big. You’ve got a border radius of 20px and a 4px outline. If you just drag the corner to shrink it, you’re going to be unhappy with the result. So instead, click Scale and resize to the dimensions you need.
 
 **10. Maximize your workspace**
+> 最大化你的工作区
 
 ![maximize-space](http://blog.invisionapp.com/wp-content/uploads/2015/01/maximize-space.gif?ver=1)
 
 If you’re working on a smaller screen, just about any app can start to feel cramped, and Sketch is no exception. To hide the left and right panels, press Ctrl+Option+Cmd+3. Or, show / hide the left and right panels individually with Ctrl+Option+Cmd+1 or Ctrl+Option+Cmd+2.
+> 如果你在小屏上工作，使用任何软件都会感觉狭小，使用 Sketch 也不例外。隐藏左右两边的面板，按 Ctrl+Option+3。或者，显示/隐藏 左边和右边的面板，分别按 Ctrl+Option+Cmd+1 和 Ctrl+Option+Cmd+2。
 
 **11. Drop Sketch files into InVision**
+> 让 Sketch 文件不可见
 
 Handily, you can drop Sketch files right into InVision to automatically turn your artboards into screens. If you want to exclude a certain artboard or page, just add a minus sign in front of the layer or page name, like so: “-modal exploration”
+> 你可以非常方便直接让 Sketch 文件不可见，以自动转换画板为屏幕。如果你想要排除一个特定的画板或者页面，只要添加减号到图层或页面名的前面。像这样："-modal exploration" （没有试验成功~）
 
